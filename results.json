@@ -1,0 +1,28 @@
+{
+    "target_id": "CHEMBL203",
+    "roc_auc": 0.8939974457215837,
+    "pr_auc": 0.9366655187820943,
+    "accuracy": 0.8484848484848485,
+    "example_predictions": [
+        {
+            "smiles": "CCO",
+            "activity": 0.5155820846557617
+        },
+        {
+            "smiles": "CC(=O)OC1=CC=CC=C1C(=O)O",
+            "activity": 0.1767607480287552
+        },
+        {
+            "smiles": "CNC(=O)c1ccc(cc1)OC",
+            "activity": 0.31404051184654236
+        },
+        {
+            "smiles": "CC1=C(C=C(C=C1)S(=O)(=O)N)CC(C(=O)O)N",
+            "activity": 0.26429325342178345
+        },
+        {
+            "smiles": "COc1ccc2c(c1)c(ccn2)Cc3ccc(cc3)OC",
+            "activity": 0.5965048670768738
+        }
+    ]
+}
